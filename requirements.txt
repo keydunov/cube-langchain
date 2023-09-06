@@ -1,0 +1,9 @@
+streamlit
+pandas
+python-dotenv
+langchain
+pathlib
+PyJWT
+openai
+tiktoken
+faiss-cpu
